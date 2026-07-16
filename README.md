@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Ali Akber
 
-<!--
-**mraliakber/mraliakber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BS Computer Science Student
+🌱 Learning Full Stack Web Development
+🎯 Future Goal: Software Engineer
+⚡ Building Projects & Improving Every Day
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Python
+- C Language
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mraliakber&show_icons=true)
+
+## 🔥 Current Focus
+
+- Sigma Web Development Course
+- Full Stack Development
+- Open Source
+- Problem Solving
+
+## 🌐 Connect With Me
+
+- Website: mraliakber.xyz
+- Blog: guidehubz.com
