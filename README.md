@@ -1,23 +1,22 @@
-<h1 align="center">Hi there, I'm Mr. Ali 👋</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Programmer+%F0%9F%98%89;Web+Developer+%F0%9F%92%BB;Frontend+%2B+Backend+Enthusiast;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<h1 align="center">Mr. Ali</h1>
+<p align="center">Creative Programmer | Web Developer</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmraliakber%2Fprofile&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-2000%2B-0e75b6?style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 👋 I'm **Mr. Ali**, a Creative Programmer 😉👀
+- 👋 I'm **Mr. Ali**, a Creative Programmer 😉
 - 📍 Based in **Pirmahal, Punjab, Pakistan**
-- 🔭 I'm currently working on **cool web projects**
-- 🌱 I'm currently learning **new frameworks & tools**
+- 🔭 Currently working on **cool web projects**
+- 🌱 Always learning **new frameworks & tools**
 - 🌐 Portfolio: **[mraliakber.xyz](https://www.mraliakber.xyz)**
 - 📖 Check out: **[guidehubz.com](https://www.guidehubz.com)**
 - 📫 Reach me: **mr.aliakber562@gmail.com**
@@ -28,14 +27,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,figma,vscode&perline=7" alt="Skills" />
-</p>
-
----
-
-### 📊 My Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mraliakber/mraliakber/main/activity-graph.svg" alt="Animated Activity Graph" width="700" />
 </p>
 
 ---
