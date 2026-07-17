@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mraliakber&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmraliakber%2Fprofile&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -32,50 +32,53 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Activity
 
 <p align="center">
 <svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
   <style>
-    .card { fill:#0d1117; stroke:#00f7ff; stroke-width:1.5; rx:14; }
+    .card { fill:url(#bg); stroke:#00f7ff; stroke-width:1.5; }
     .grid { stroke:#1f2937; stroke-width:1; }
     .glow { filter: drop-shadow(0 0 6px #00f7ff); }
     .line {
       fill:none; stroke:#00f7ff; stroke-width:3; stroke-linecap:round; stroke-linejoin:round;
       stroke-dasharray: 900; stroke-dashoffset: 900;
-      animation: draw 3s ease-out forwards infinite;
+      animation: draw 3.5s ease-out infinite;
     }
     @keyframes draw {
       0% { stroke-dashoffset: 900; }
-      60% { stroke-dashoffset: 0; }
+      55% { stroke-dashoffset: 0; }
       100% { stroke-dashoffset: 0; }
     }
-    .dot {
-      fill:#8a2be2; opacity:0;
-      animation: pop 3s ease-out forwards infinite;
-    }
+    .dot { fill:#8a2be2; opacity:0; animation: pop 3.5s ease-out infinite; }
     @keyframes pop {
-      0% { opacity:0; r:0; }
-      55% { opacity:0; r:0; }
-      65% { opacity:1; r:5; }
-      100% { opacity:1; r:4; }
+      0% { opacity:0; }
+      50% { opacity:0; }
+      60% { opacity:1; }
+      100% { opacity:1; }
     }
-    .label { font-family: 'Fira Code', monospace; fill:#c9d1d9; font-size:14px; }
-    .title { font-family: 'Fira Code', monospace; fill:#00f7ff; font-size:17px; font-weight:bold; }
+    .label { font-family: monospace; fill:#c9d1d9; font-size:14px; }
+    .title { font-family: monospace; fill:#00f7ff; font-size:17px; font-weight:bold; }
     .pulse { animation: pulse 2.5s ease-in-out infinite; }
     @keyframes pulse { 0%,100% { opacity:0.6; } 50% { opacity:1; } }
+    .bar { animation: grow 2.5s ease-out infinite; transform-origin: bottom; }
+    @keyframes grow { 0% { transform: scaleY(0); } 60% { transform: scaleY(1); } 100% { transform: scaleY(1); } }
   </style>
 
   <rect class="card" x="4" y="4" width="692" height="222" rx="14"/>
-  <text x="24" y="34" class="title">⚡ mraliakber's Contribution Momentum</text>
+  <text x="24" y="34" class="title">⚡ Mr. Ali — Contribution Momentum</text>
 
-  <!-- grid -->
   <line class="grid" x1="40" y1="60" x2="670" y2="60"/>
   <line class="grid" x1="40" y1="105" x2="670" y2="105"/>
   <line class="grid" x1="40" y1="150" x2="670" y2="150"/>
   <line class="grid" x1="40" y1="195" x2="670" y2="195"/>
 
-  <!-- animated line chart -->
   <path class="line glow" d="M40,150 L120,120 L200,70 L280,90 L360,110 L440,60 L520,95 L600,75 L670,50"/>
 
   <circle class="dot" cx="40" cy="150" r="4"/>
@@ -91,21 +94,6 @@
   <text x="24" y="215" class="label pulse">🔥 Consistently shipping code, one commit at a time</text>
 </svg>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mraliakber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraliakber&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mraliakber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraliakber&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center"><sub>👆 Agar stats/streak cards abhi bhi blank dikhen, thora ruk kar page refresh karein — ye free services kabhi kabhi slow hoti hain.</sub></p>
 
 ---
 
