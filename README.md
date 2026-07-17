@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I'm+Mr.+Ali;Creative+Programmer+%F0%9F%92%A1;Web+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Mr. Ali</h1>
@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-2000%2B-0e75b6?style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-success?style=for-the-badge" alt="availability" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blue?style=for-the-badge" alt="location" />
 </p>
 
 ---
@@ -23,11 +25,34 @@
 
 ---
 
+### 🚀 Currently
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Web%20Projects-00F7FF?style=flat-square&logo=react" alt="building" />
+  <img src="https://img.shields.io/badge/Learning-New%20Frameworks-8A2BE2?style=flat-square&logo=javascript" alt="learning" />
+  <img src="https://img.shields.io/badge/Collaborating-Open%20to%20Ideas-orange?style=flat-square&logo=github" alt="collaborating" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,figma,vscode&perline=7" alt="Skills" />
 </p>
+
+---
+
+<details>
+<summary>💡 Fun Facts About Me</summary>
+<br>
+
+- 🎯 I believe clean code is as important as working code
+- ☕ Fueled by coffee and curiosity
+- 🌙 Most of my best code is written late at night
+- 🎨 I care about design as much as functionality
+
+</details>
 
 ---
 
