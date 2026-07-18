@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I'm+Mr.+Ali;Creative+Programmer+%F0%9F%92%A1;Web+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;I'm+Ali;Creative+Programmer+%F0%9F%92%A1;Web+Developer+%F0%9F%92%BB;I+Build+Things+for+the+Web+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Mr. Ali</h1>
@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👋 I'm **Mr. Ali**, a Creative Programmer 😉
+- 👋 I'm **Ali**, a Creative Programmer 😉
 - 📍 Based in **Pirmahal, Punjab, Pakistan**
 - 🔭 Currently working on **cool web projects**
 - 🌱 Always learning **new frameworks & tools**
